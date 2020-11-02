@@ -31,13 +31,13 @@ export const NavLink = styled(Link) `
 export const NavIcon = styled.div `
     display: block ;
     position: absolute ;
-    top: 0 ;
+    top: .4rem ;
     right: 0 ;
     cursor: pointer ;
     color: #fff ;
 
     p {
-        transform: translate(-170%, 60%) ;
+        transform: translate(-170%, 100%) ;
         font-weight: bold ;
     }
 
@@ -45,5 +45,6 @@ export const NavIcon = styled.div `
 
 export const Bars = styled(FaPizzaSlice) `
     font-size: 2rem ;
+    margin-top: .7rem ;
     transform: translate(-50%, -50%) ;
 `
