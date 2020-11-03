@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/restaurant-website/static/css/main.17cf02ac.chunk.css",
+    "main.js": "/restaurant-website/static/js/main.4ba44dba.chunk.js",
+    "main.js.map": "/restaurant-website/static/js/main.4ba44dba.chunk.js.map",
+    "runtime-main.js": "/restaurant-website/static/js/runtime-main.794f83da.js",
+    "runtime-main.js.map": "/restaurant-website/static/js/runtime-main.794f83da.js.map",
+    "static/js/2.3d50c63f.chunk.js": "/restaurant-website/static/js/2.3d50c63f.chunk.js",
+    "static/js/2.3d50c63f.chunk.js.map": "/restaurant-website/static/js/2.3d50c63f.chunk.js.map",
+    "index.html": "/restaurant-website/index.html",
+    "static/css/main.17cf02ac.chunk.css.map": "/restaurant-website/static/css/main.17cf02ac.chunk.css.map",
+    "static/js/2.3d50c63f.chunk.js.LICENSE.txt": "/restaurant-website/static/js/2.3d50c63f.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/restaurant-website/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/restaurant-website/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/restaurant-website/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/restaurant-website/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/restaurant-website/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/restaurant-website/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/restaurant-website/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/restaurant-website/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.794f83da.js",
+    "static/js/2.3d50c63f.chunk.js",
+    "static/css/main.17cf02ac.chunk.css",
+    "static/js/main.4ba44dba.chunk.js"
+  ]
+}
